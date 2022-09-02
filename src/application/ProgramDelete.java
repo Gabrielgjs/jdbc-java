@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import db.DB;
 import db.DbIntegrityException;
 
-public class Program {
+public class ProgramDelete {
 
 	public static void main(String[] args) {
 		
